@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Неофициальная база StatGrad / ЕГКР 11 класса"
+message: "При использовании базы укажите автора, название и версию."
+type: dataset
+version: "1.11"
+date-released: "2026-07-25"
+authors:
+  - family-names: "quendoris"
+license: "CC-BY-NC-SA-4.0"
+repository-code: "https://github.com/quendoris/statgrad-11-unofficial"
+abstract: >-
+  Пользовательская база из 6842 записей с каноническим реестром 1760 VIS_ID,
+  сохранёнными аудиторскими статусами и отдельным словарём флагов.
+keywords:
+  - StatGrad
+  - EGKR
+  - ЕГЭ
+  - задания
+  - dataset
