@@ -1,0 +1,30 @@
+{
+  "release": "v1.12",
+  "edition": "Cropped Visual User Edition",
+  "built_at_utc": "2026-07-27T00:00:00Z",
+  "workbook": "statgrad_master_v1_12_user_edition.xlsx",
+  "workbook_sha256": "ede35c194aab93b750cdcc76087f5971bedd7d1c14ae7e0d4587d78673838f0f",
+  "approved_layer_archive_sha256": "4fdac0249126f8d380eaddb2c59dac33095884c34a9f5c947fea15d5ac08f2c9",
+  "counts": {
+    "release": "v1.12",
+    "task_visual_pairs": 379,
+    "unique_source_vis_id": 312,
+    "unique_original_assets": 312,
+    "unique_cropped_assets": 324,
+    "no_crop_rows": 22,
+    "decision_counts": {
+      "COMPOSITE_CROP": 4,
+      "MANUAL_BBOX": 68,
+      "NO_CROP_NEEDED": 22,
+      "USE_CONTEXT": 141,
+      "USE_TIGHT": 144
+    },
+    "qa_status": "HUMAN_QA_COMPLETE",
+    "unresolved_rows": 0,
+    "materialization_errors": 0
+  },
+  "originals_immutable": true,
+  "publication_gate": "READY_FOR_RELEASE_ASSEMBLY",
+  "source_candidate_manifest_sha256": "fb55aae09d6a1a08fbb389e07fd3e783c4e4db16d1ccf83462758c46bd53a498",
+  "approved_manifest_sha256": "2c7a368bbe30dba7419124a9d8ec520aae65bd52e5decf7f1907e479bef7ccb1"
+}
