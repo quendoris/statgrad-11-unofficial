@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quendoris.github.io/statgrad-11-unofficial/sitemap.xml
