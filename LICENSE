@@ -2,10 +2,12 @@ MULTI-LICENSE NOTICE
 
 Copyright (c) 2026 quendoris
 
-1. Original database structure, schema, identifiers, status taxonomy, curation metadata, annotations and documentation authored for this project are licensed under CC BY-NC-SA 4.0. See LICENSE-DATA.
+1. Original database structure, schema, identifiers, status taxonomy, curation metadata, annotations, documentation and evidence workbooks authored for this project are licensed under CC BY-NC-SA 4.0. See LICENSE-DATA.
 
-2. Third-party examination materials, task texts, answer keys, criteria, scans, images, audio, logos and trademarks are not covered by the project license. See THIRD_PARTY_NOTICE.md.
+2. Commercial use is not licensed and is not implied. No message, email, invoice, payment, delivery of files, statement of work or informal written permission grants commercial rights. See COMMERCIAL_USE_POLICY.md.
 
-3. This is an independent, unofficial project and is not affiliated with StatGrad, EGKR or any examination authority.
+3. Third-party examination materials, task texts, answer keys, criteria, scans, images, audio, logos and trademarks are not covered by the project license. See THIRD_PARTY_NOTICE.md.
 
-4. The publication is provided as-is, without warranty.
+4. This is an independent, unofficial project and is not affiliated with StatGrad, EGKR or any examination authority.
+
+5. The publication is provided as-is, without warranty.
