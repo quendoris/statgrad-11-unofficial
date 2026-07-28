@@ -3,7 +3,7 @@ SPDX: CC-BY-NC-SA-4.0
 
 Copyright (c) 2026 quendoris
 
-The original database structure, schema, field definitions, normalized identifiers, status taxonomy, curation metadata, annotations and documentation authored for this project are licensed under CC BY-NC-SA 4.0.
+The original database structure, schema, field definitions, normalized identifiers, status taxonomy, curation metadata, annotations, documentation and evidence workbooks authored for this project are licensed under CC BY-NC-SA 4.0.
 
 License deed:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -13,5 +13,10 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
 
 Requested attribution:
 "StatGrad / EGKR 11-class unofficial database, curated by quendoris"
+
+Commercial-use clarification:
+Commercial use is not licensed and is not implied. Informal communications, messages, invoices, payments, transfer of files and permissions in free form do not grant commercial rights. Commercial rights can arise only from a separate license agreement expressly identified as such and signed by the rightsholder. See COMMERCIAL_USE_POLICY.md.
+
+This clarification does not add restrictions to, revoke or limit non-commercial rights already granted under CC BY-NC-SA 4.0 when its terms are followed.
 
 This license excludes all third-party material described in THIRD_PARTY_NOTICE.md.
